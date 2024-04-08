@@ -16,4 +16,4 @@
     - However, to do that, you will need to make the folder structure for the data. If I fix download_and_save.py this can be done automatically, however, now we have the problem that I told you on the TODO section.
 - Now the size of the database is around 3.00 GBs
 
-This is a fork and ``update'' from https://github.com/theis188/us-jobs-data
+
