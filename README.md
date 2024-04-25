@@ -2,10 +2,7 @@
  Code to compile the OES survey into a sqlite database. It uses:
  - Python: 3.12.0
  - Packages: request, sqlite3, numpy, and pandas
- 
-
-This is a ``update'' of https://github.com/theis188/us-jobs-data. 
- 
+  
 ## TODO: 
 - **Fix the downloading procedure**: sometimes the BLS thinks that I am a bot and block any other connection to their website. Because of that, I disable the downloading mechanism in the code. However, you can still compile the database from the excel files that are in the folder by using the Python codes. 
 
